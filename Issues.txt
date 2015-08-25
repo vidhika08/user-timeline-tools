@@ -1,0 +1,3 @@
+							Issues
+
+The module Twitter couldn't be accessed by Python-Twitter 2.2 and worked only with Python-Twitter 1.17.1
