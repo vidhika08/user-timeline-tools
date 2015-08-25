@@ -1,0 +1,19 @@
+                                                        Summary of the Analysis
+
+My analysis was focused on some of the recent tweets by Donald Trump. With the presidential election next year, I thought 
+it will be very interesting to study what one of the most talked about presidential candidate is tweeting about. His surprise 
+decision to run for the president in conjunction with some of his controversial remarks has ensured that he has been 
+omnipresent in the media and more so on the social media platforms like Twitter.
+
+The word cloud of Trump’s last 199 tweets enables us in understanding what he is talking about most frequently. 
+From the font size we can figure out that his tweets are referring a lot to his slogan “MakeAmericaGreatAgain”, his direct GOP 
+presidential competition – Jab Bush and his recent controversial faceoff with Megyn Kelly.
+His tweets also refer a lot to his supporters and team members Michael Cohen and Dan Scavino.
+There is also an expected reference to GOP debate multiple times.
+
+To me this word cloud is very interesting because it currently shows that Trump is not talking about any real issues 
+(Unemployment, Health Care, Immigration Reforms etc ). All his tweets are related to personal attacks and controversies. 
+Also from the word cloud it can be inferred that, there is hardly any reference to Hillary Clinton – his prime competitor 
+from the democratic wing. Looking at the word cloud his only motive at present seems to be wining the Republican party nomination.
+
+As we near the elections, re running the word cloud for Donald Trump and possibly the other candidates will show even more interesting patterns.
